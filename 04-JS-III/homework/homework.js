@@ -212,6 +212,7 @@ function mayorACien(array) {
       nuevoArray.push(array[i])
     }
   }
+  array.push();
   return nuevoArray;
 }
 
